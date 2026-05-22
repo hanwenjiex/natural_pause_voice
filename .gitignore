@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# Build
+dist/
+build/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store

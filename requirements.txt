@@ -1,0 +1,6 @@
+pycaw
+comtypes
+opencv-python-headless
+pyvirtualcam
+numpy
+pyinstaller
